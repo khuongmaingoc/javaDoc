@@ -1,0 +1,4 @@
+Khuong,8.9
+Vinh,9.0
+Lan,10.0
+Lam,8.1
